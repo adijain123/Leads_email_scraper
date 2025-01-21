@@ -25,8 +25,8 @@ This is a web application built using **Flask**, **Flask-SocketIO**, and **Beaut
 1. Clone the repository:
 
     ```bash
-    git clone <repository_url>
-    cd <repository_name>
+    git clone https://github.com/adijain123/Leads_email_scraper.git
+    cd Leads_email_scraper
     ```
 
 2. Install the required dependencies from `requirements.txt`:
