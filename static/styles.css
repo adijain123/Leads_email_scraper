@@ -1,0 +1,40 @@
+body {
+    background-color: #121212;
+    color: #ffffff;
+}
+
+h1, h2 {
+    color: #f0ad4e;
+}
+
+.table {
+    margin-top: 20px;
+    background-color: #1f1f1f;
+}
+
+.table-dark th, .table-dark td {
+    border-color: #444;
+}
+
+input, .btn-primary {
+    color: #fff;
+    background-color: #212529;
+    border: 1px solid #444;
+}
+
+input::placeholder {
+    color: #ccc;
+}
+
+input:focus, .btn-primary:hover {
+    background-color: #444;
+    border-color: #555;
+}
+
+.log-container {
+    height: 200px;
+    overflow-y: scroll;
+    border: 1px solid #555;
+    padding: 10px;
+    background-color: #1f1f1f;
+}
